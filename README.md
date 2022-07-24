@@ -1,3 +1,11 @@
+# Landing page E-learning site
+
+This reactjs project consists of a simple landing page featuring an e-learning website. The page is 100% responsive so that it adapts to all screen sizes and the user experience is always good.
+
+## Demo
+
+https://clever-cobbler-5236d8.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
